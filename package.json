@@ -1,0 +1,19 @@
+{
+  "name": "indiadndcheck",
+  "version": "1.0.0",
+  "description": "A simple utility to check whether the given 10 digit indian mobile number is registered in DND registry(Do not Disturb)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tech@roadtonaukri.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekpill/indiadndcheck.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.73.0"
+  }
+}

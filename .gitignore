@@ -1,0 +1,7 @@
+npm-debug.log
+bower_components
+obj/
+.idea/
+bin/
+node_modules/
+*.xml
