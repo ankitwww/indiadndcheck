@@ -1,11 +1,9 @@
-# utmparser
-
 A simple utility to check whether the given 10 digit indian mobile number is registered in DND registry(Do not Disturb).
 
 ## Examples
 
 ```
-var dnd = require('./index');
+var dnd = require('indiadndcheck');
 
 var mobile = 1234567890; //replace with 10 digit number
 dnd.isDND(mobile, function(err, isDnd){
